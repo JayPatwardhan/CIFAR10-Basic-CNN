@@ -1,2 +1,2 @@
 # CIFAR10-Basic-CNN
-Simple PyTorch CNN on CIFAR10.
+Simple PyTorch CNN on CIFAR10
